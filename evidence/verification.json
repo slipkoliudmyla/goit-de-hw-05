@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "source_records": 480,
+  "sensor_counts": {
+    "sensor-2": 240,
+    "sensor-1": 240
+  },
+  "temperature_alerts": 113,
+  "humidity_alerts": 73,
+  "boundary_cases": 8,
+  "output_matches_every_input": true
+}
